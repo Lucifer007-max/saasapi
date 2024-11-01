@@ -2,6 +2,10 @@
 env\Scripts\activate
 main route page will open index.html
 
+source venv/bin/activate
+
+
+
 # RUN IN DEBUG MODE
 flask --app main.py --debug run
 

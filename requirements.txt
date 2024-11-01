@@ -2,3 +2,5 @@ Flask
 Flask-SQLAlchemy
 Flask-MySQLdb
 subprocess.run
+pyjwt[crypto]
+ipython
